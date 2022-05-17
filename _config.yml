@@ -1,0 +1,23 @@
+title: Karl (Tage) Magnusson
+description: Sr Embedded Engineer, R&D @ Embedded System Consultancy Stockholm Ltd.
+baseurl: "/"
+url: ""
+photo_url: "my-photo.jpg"
+
+# This is an optional section
+# You can skip filling in one or more of the items in this section
+email: "karl@embedded-computing.eu"
+linkedin: "http://linkedin.com/in/karl-x-magnusson"
+github: "https://github.com/KarlXMagnusson"
+website: "http://KarlXMagnusson.github.io/"
+#medium: "https://member.acm.org/~karlm"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
